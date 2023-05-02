@@ -33,7 +33,7 @@ ul {
   padding: 0.5em 1em; 
   border-radius: 1em;
   color: black;
-  background-color: lightgray;
+  background-color: #e5e5e6;
 }
 
 .country-element{
@@ -45,7 +45,7 @@ ul {
   padding: 1em 2em; 
   border-radius: 1em;
   color: black; 
-  background-color: lightgray;
+  background-color: #e5e5e6;
 }
 
 .country-list{
